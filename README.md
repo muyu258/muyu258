@@ -19,7 +19,7 @@ I enjoy learning how things really work, building thoughtful user experiences, a
 
 ## 🌐 Connect With Me
 
-[![Blog](https://img.shields.io/badge/Blog-Muyin's_Blog-2d6cdf?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.muyin.site)
+[![Blog](https://img.shields.io/badge/Blog-Muyu's_Blog-2d6cdf?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.muyu258.me)
 [![GitHub](https://img.shields.io/badge/GitHub-muyu258-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muyu258)
 
 ---
